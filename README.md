@@ -4,7 +4,7 @@
 # YGoreloe
 ![Screenrecorder-2024-01-31-16-13-12-78](https://github.com/Dokker24/YGoreloe/assets/142105218/334b1a48-0b8f-4f3c-9d31-0c3dd558d86b)
 
-🌟**YGoreloe** is an app created to help teachers with their difficult work.💫 In the app, 
+🌟**YGoreloe** is an app created to help teachers with their difficult work. It keeps track of you, what lesson you have now and where you need to go.💫 In the app, 
 • you can create a list of your lessons, 
 • set the time, 
 • mark events, 
@@ -26,5 +26,5 @@
 
 
 ### Version
-the latest version in Den1337 
+the latest version in 1337 
 😎😎😎
